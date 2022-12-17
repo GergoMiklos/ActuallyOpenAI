@@ -1,3 +1,1 @@
-# sharegpt
-
-Easily share permanent links to ChatGPT conversations with your friends
+# GPT output collector based on sharegpt
